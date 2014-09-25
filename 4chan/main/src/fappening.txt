@@ -1,0 +1,50 @@
+urllib2.urlopen exception on: http://boards.4chan.org/vp/thread/21099384/so-do-you-think-that-the-monkey-pokemon-get-their
+urllib2.urlopen exception on: http://boards.4chan.org/b/thread/570603841/schoolgirls-thread-part-2
+urllib2.urlopen exception on: http://boards.4chan.org/b/thread/570603737/raid-httpswwwyoutubecomwatchvr9q-vamhnjb8
+urllib2.urlopen exception on: http://boards.4chan.org/s/thread/15359099/nude-and-nonude
+urllib2.urlopen exception on: http://boards.4chan.org/s/thread/15359086/link-in-pics
+urllib2.urlopen exception on: http://boards.4chan.org/hc/thread/636439/nude-and-nonude
+urllib2.urlopen exception on: http://boards.4chan.org/hm/thread/970663/nude-and-nonude
+urllib2.urlopen exception on: http://boards.4chan.org/hm/thread/970646/prefap
+urllib2.urlopen exception on: http://boards.4chan.org/h/thread/3810004/nude-and-nonude
+urllib2.urlopen exception on: http://boards.4chan.org/e/thread/1724270/nude-and-nonude
+urllib2.urlopen exception on: http://boards.4chan.org/u/thread/1605226/nude-and-nonude
+urllib2.urlopen exception on: http://boards.4chan.org/d/thread/5729960/nude-and-nonude
+urllib2.urlopen exception on: http://boards.4chan.org/y/thread/2124536/nude-and-nonude
+urllib2.urlopen exception on: http://boards.4chan.org/t/thread/620496/nude-and-nonude
+4		http://boards.4chan.org/hr/thread/2202632/victoria-justice
+4		http://boards.4chan.org/jp/thread/12480372/jav-thread-7-running-out-of-hdd-space-edition-old
+3		http://boards.4chan.org/jp/thread/12515008/kaguya-thread
+2		http://boards.4chan.org/adv/thread/14815418/conciousness
+2		http://boards.4chan.org/s4s/thread/2585070/in-this-itt-thread-i-am-going-to-visit-every
+2		http://boards.4chan.org/t/thread/602647/new-hitomi-tanaka-thread
+2		http://boards.4chan.org/h/thread/3807565/since-the-old-thread-hit-the-limit-again-heres
+2		http://boards.4chan.org/h/thread/3773854/best-hentai-flash-games
+2		http://boards.4chan.org/d/thread/5688653/size-but-not-sizepov
+2		http://boards.4chan.org/soc/thread/20357991/old-thread-reached-image-cap-starting-new-itt
+2		http://boards.4chan.org/h/thread/3780922/itt-hentai-with-amazing-art-and-animation-ill-get
+2		http://boards.4chan.org/v/thread/265312378/the-year-you-lost-your-virginity-your-goty-of-the
+1		http://boards.4chan.org/co/thread/65776072/tiny-toon-adventures-thread
+1		http://boards.4chan.org/r/thread/12645039/celebrity-nudes-pic-unrelated
+1		http://boards.4chan.org/sp/thread/52687903/lexplorer-arrested
+1		http://boards.4chan.org/t/thread/608049/japanese-girls-fucking-niggers
+1		http://boards.4chan.org/t/thread/585124/dpmi
+1		http://boards.4chan.org/jp/thread/12447428/remi-in-a-swimsuit
+1		http://boards.4chan.org/e/thread/1686497/r-in-e
+1		http://boards.4chan.org/r9k/thread/13725002/whats-your-opinion-of-women-with-small-boobs-i
+1		http://boards.4chan.org/cgl/thread/7836801/well-another-kick-starter-asking-people-to-fund
+1		http://boards.4chan.org/g/thread/44338509/no-home-screen-thread-lets-get-em-started-r8-n-h8
+1		http://boards.4chan.org/h/thread/3800469/random-translation
+1		http://boards.4chan.org/lgbt/thread/3339124/who-considers-himherself-trans-and-wasis-aroused
+1		http://boards.4chan.org/e/thread/1721862/mmd-thread-new-irc-room
+1		http://boards.4chan.org/mlp/thread/19754070/rule-63-thread-the-edition
+1		http://boards.4chan.org/t/thread/608329/does-anyone-know-where-to-find-more-jav
+1		http://boards.4chan.org/ic/thread/1844743/tfw-nobody-in-your-family-or-any-of-your-friends
+1		http://boards.4chan.org/adv/thread/14803061/didnt-see-one-so-here-we-go-this-project-has
+1		http://boards.4chan.org/m/thread/11396083/thoughts-on-this-yay-or-nay
+1		http://boards.4chan.org/int/thread/30869370/what-did-you-do-today-int
+1		http://boards.4chan.org/sp/thread/52687275/epl
+1		http://boards.4chan.org/vp/thread/21089127/cute-characters
+1		http://boards.4chan.org/gif/thread/6514309/horror-nudity-thread-taking-requests-ill-make-any
+1		http://boards.4chan.org/r/thread/12644018/xraynudeshop-please
+1		http://boards.4chan.org/vg/thread/81405232/tesg-the-elder-scrolls-general

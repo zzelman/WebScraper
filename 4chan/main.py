@@ -1,3 +1,3 @@
 from test.src.lib import *
 
-runTests()
+# runTests()
