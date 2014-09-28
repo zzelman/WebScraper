@@ -25,6 +25,7 @@ def main():
 # 		print "val = " + str(i) + ", key = " + str(t.thread_url)
 		if i[1] > 0:
 			print str(i[1]) + "\t\t" + str(i[0].thread_url)
+			downloadImages_obj(i[0])
 
 # 	for t in thread_hitcount_sorted:
 # 		print t.thread_url
